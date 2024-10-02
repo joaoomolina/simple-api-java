@@ -1,3 +1,4 @@
+name: Meu primeiro work
 on: push
 
 jobs:
